@@ -19,3 +19,10 @@ $pythonscriptpath = "./bard.py";
 $pythonpath = "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3"; #環境に応じて変更
 ?>
 ```
+API Keyなどはbardapi.phpで設定できます。
+
+# API Keyの取得
+
+https://bard.google.com/ にアクセス
+Session: Application → Cookies → __Secure-1PSID cookie.
+
