@@ -26,3 +26,6 @@ API Keyなどはbardapi.phpで設定できます。
 https://bard.google.com/ にアクセス
 Session: Application → Cookies → __Secure-1PSID cookie.
 
+# BardAPI(Pythonの導入)
+https://github.com/dsdanielpark/Bard-API
+
